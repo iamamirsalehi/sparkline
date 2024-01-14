@@ -1,6 +1,6 @@
 <?php
 
-namespace Iamamirsalehi\Sparkline;
+namespace Amir\Sparkline;
 
 class Math
 {
