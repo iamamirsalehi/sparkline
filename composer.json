@@ -2,7 +2,7 @@
     "name": "amir/sparkline",
     "autoload": {
         "psr-4": {
-            "Amir\\Sparkline\\": "src/"
+            "Iamamirsalehi\\Sparkline\\": "src/"
         }
     },
     "authors": [
